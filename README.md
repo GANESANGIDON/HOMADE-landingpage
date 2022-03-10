@@ -2,4 +2,4 @@
 
 ### A home organsing site landing page.
 
-### website link : 
+### website link : https://ganesangidon.github.io/HOMADE-landingpage/
